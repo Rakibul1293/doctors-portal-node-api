@@ -12,9 +12,6 @@ A full-stack app where you can pick the date and time and fix an appointment wit
 - Add prescriptions for each patient
 
 ### Technology:
-- React
-- Material-UI
-- Bootstrap
 - Node.js
 - MongoDB
 - Heroku
